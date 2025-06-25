@@ -26,7 +26,9 @@ A classic Snake game built using **Java** and **Swing**. Navigate the snake usin
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Java JDK 8 or later
+- Java JDK 8 or later installed
+- Ensure `java`, `javac`, and `jar` commands work in terminal  
+  (If not, add your JDK's `bin` folder to the system PATH)
 
 ### Running the Game
 
